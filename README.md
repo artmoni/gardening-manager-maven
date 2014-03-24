@@ -5,7 +5,7 @@ This repository is a workaround for free artifacts not found on public repositor
 ## Content list
 
  - `android:android:4.0.3_r3`
- - `com.actionbarsherlock:actionbarsherlock:4.2.0`
+ - `com.actionbarsherlock:actionbarsherlock:4.4.0`
  - `com.google.android.analytics:analytics:1.4.2`
  - `com.google.android.admob:admob:6.2.1-r8`
 
